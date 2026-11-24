@@ -1,0 +1,221 @@
+invoice_id,order_date,customer_name,product,region,quantity,unit_price
+INV-1022,28 Jan 2026,Sara Ali, Mouse,Giza,2,EGP 180.52
+INV-1005,02/10/2026,  Sara Ali , Laptop,Giza,5,798.05 USD
+INV-1112,01 May 2026,HANY ZAKI,mouse,Giza,5,$383.02
+INV-1119,08-18-2026,Nour  Ibrahim,Headset,Giza,2,851.42
+INV-1080,04-30-2026,Youssef  Samir,Webcam,Giza,5,$210.08
+INV-1148,10-14-2026,karim fathy, Monitor,alex,5,93.17
+INV-1113,20/02/2026,Laila  Mostafa,mouse,Cairo,3,203.37
+INV-1114,05 Jul 2026,sara ali, Headset,Giza,4,255.53
+INV-1049,24 Feb 2026,KARIM FATHY, Monitor,ALEXANDRIA,1,506.09
+INV-1111,2026-08-26,  Youssef Samir ,Laptop,Cairo,3,896.38
+INV-1129,05/02/2026,Omar Khaled, Laptop,Alexandria,4,383.65 USD
+INV-1100,29/03/2026,Omar Khaled,headset,alex,2,EGP 452.92
+INV-1142,08 Jun 2026,  Laila Mostafa ,Laptop,GIZA,1,583.75
+INV-1098,2026-05-01,YOUSSEF SAMIR,Webcam,Giza,1,404.87 USD
+INV-1051,08 Oct 2026,LAILA MOSTAFA,webcam,GIZA,2,757.48 USD
+INV-1057,01 Oct 2026,  Ahmed Hassan , Headset,Alexandria,1,$582.05
+INV-1192,25 Jul 2026,AHMED  HASSAN,Headset,Giza,3,EGP 75.44
+INV-1081,2026-03-14,Sara Ali,monitor,,5,829.86
+INV-1094,03 May 2026,  Dina Farouk ,monitor,CAIRO,4,637.65
+INV-1153,08/07/2026,  Dina Farouk ,mouse,Giza,5,$382.61
+INV-1124,10 Jun 2026,youssef samir, Monitor,Giza,1,750.28
+INV-1170,2026-08-16,  Nour Ibrahim , Laptop,Giza,,254.35
+INV-1134,06-17-2026,Sara Ali, Mouse,Giza,2,$348.38
+INV-1131,2026-02-11,  Youssef Samir ,webcam,Giza,4,$378.62
+INV-1012,2026-03-23,Karim  Fathy,laptop,Giza,4,EGP 480.91
+INV-1053,03-12-2026,OMAR KHALED, Mouse,Cairo,2,67.16
+INV-1181,06-05-2026,OMAR KHALED, Keyboard,CAIRO,-3,806.48
+INV-1162,04 Feb 2026,Hany  Zaki, Headset,Alexandria,4,787.26
+INV-1019,10-11-2026,Mona  Adel,Monitor,Cairo,1,213.76
+INV-1007,09/07/2026,NOUR IBRAHIM,webcam,alex,1,$552.13
+INV-1024,2026-01-26,Hany Zaki,Laptop,CAIRO,4,438.41
+INV-1195,09-23-2026,LAILA MOSTAFA, Headset,CAIRO,5,293.49
+INV-1017,07/03/2026,Laila  Mostafa,monitor,alex,4,EGP 868.28
+INV-1064,05/02/2026,hany zaki,laptop,Giza,4,865.10
+INV-1109,16 Feb 2026,Karim Fathy, Keyboard,CAIRO,3,608.82 USD
+INV-1090,02 Mar 2026,  Omar Khaled ,webcam,alex,3,999999
+INV-1189,23 Mar 2026,Laila  Mostafa,mouse,GIZA,1,90.14
+INV-1192,25 Jul 2026,Ahmed  Hassan,Headset,Giza,3,EGP 75.44
+INV-1116,11/10/2026,Mona  Adel,Monitor,Giza,5,$12.52
+INV-1102,07/02/2026,laila mostafa,headset,ALEXANDRIA,3,416.58 USD
+INV-1174,28 Feb 2026,AHMED HASSAN, Mouse,Giza,1,242.98 USD
+INV-1027,2026-01-26,  Dina Farouk , Headset,Cairo,5,$81.3
+INV-1139,17/03/2026,Mona Adel,monitor,Cairo,5,146.05
+INV-1009,17 Jan 2026,  Nour Ibrahim ,Keyboard,Cairo,3,199.24
+INV-1030,03/06/2026,laila mostafa,Laptop,Giza,5,896.53
+INV-1154,2026-03-12,Youssef Samir,webcam,Giza,1,EGP 643.15
+INV-1056,23/04/2026,  Youssef Samir ,Mouse,GIZA,4,654.52
+INV-1033,2026-05-20,Youssef  Samir, Monitor,Giza,3,459.81 USD
+INV-1006,05/02/2026,AHMED HASSAN,Keyboard,Cairo,4,257.4 USD
+INV-1156,06-28-2026,  Ahmed Hassan ,laptop,ALEXANDRIA,2,353.69
+INV-1092,22 May 2026,karim fathy,headset,CAIRO,3,EGP 755.35
+INV-1169,14/06/2026,Sara Ali, Keyboard,GIZA,4,546.33
+INV-1200,15/04/2026,Karim  Fathy,headset,alex,1,EGP 638.14
+INV-1044,29/07/2026,  Nour Ibrahim ,webcam,Alexandria,2,384.20
+INV-1095,2026-03-19,Laila Mostafa, Monitor,ALEXANDRIA,1,788.03
+INV-1145,2026-09-26,Hany  Zaki,monitor,GIZA,4,373.8 USD
+INV-1108,06-23-2026,  Sara Ali ,Laptop,Cairo,4,EGP 870.87
+INV-1055,02 Sep 2026,ahmed hassan,keyboard,Giza,5,$721.88
+INV-1098,2026-05-01,YOUSSEF SAMIR,Webcam,Giza,1,404.87 USD
+INV-1072,04-21-2026,laila mostafa, Webcam,alex,3,$882.65
+INV-1067,01-15-2026,laila mostafa,monitor,CAIRO,3,EGP 312.9
+INV-1115,2026-02-16,Mona  Adel,Laptop,Giza,2,$710.41
+INV-1037,14/10/2026,Karim  Fathy,Webcam,Cairo,2,794.46
+INV-1194,15 Mar 2026,Mona  Adel,headset,Alexandria,1,44.63 USD
+INV-1150,09/02/2026,Youssef Samir, Headset,alex,1,EGP 599.12
+INV-1015,03-24-2026,Hany  Zaki, Laptop,GIZA,1,109.56 USD
+INV-1163,11/07/2026,Youssef Samir,Keyboard,Giza,1,696.64 USD
+INV-1198,27/01/2026,  Dina Farouk , Monitor,alex,-3,699.40
+INV-1161,08-08-2026,Ahmed  Hassan,Keyboard,ALEXANDRIA,2,601.29
+INV-1159,26 Feb 2026,YOUSSEF SAMIR,Keyboard,Cairo,4,EGP 578.67
+INV-1068,12 Oct 2026,Ahmed  Hassan,Monitor,Cairo,4,$444.83
+INV-1011,26/10/2026,karim fathy,Monitor,ALEXANDRIA,1,682.65
+INV-1186,04-15-2026,Nour  Ibrahim,monitor,ALEXANDRIA,3,$878.08
+INV-1075,10/05/2026,Laila Mostafa,laptop,Giza,5,570.21
+INV-1069,09-09-2026,Laila Mostafa,laptop,CAIRO,2,EGP 282.52
+INV-1061,16/10/2026,  Mona Adel ,webcam,Giza,5,550.45
+INV-1071,06/06/2026,YOUSSEF SAMIR, Laptop,CAIRO,1,999999
+INV-1054,05 Oct 2026,  Laila Mostafa ,Laptop,GIZA,5,852.0
+INV-1096,09-27-2026,Laila Mostafa,Webcam,Giza,2,76.6 USD
+INV-1078,2026-04-17,mona adel,Webcam,Cairo,2,$501.27
+INV-1059,04/08/2026,Youssef Samir,Mouse,alex,1,899.92 USD
+INV-1020,06 Feb 2026,HANY ZAKI, Keyboard,Giza,5,EGP 127.76
+INV-1125,19 Feb 2026,NOUR IBRAHIM,Headset,alex,5,303.38
+INV-1152,16/08/2026,dina farouk,webcam,Cairo,2,285.43
+INV-1176,16/08/2026,sara ali,webcam,Alexandria,5,492.53 USD
+INV-1160,02-02-2026,  Sara Ali , Headset,Cairo,5,$521.79
+INV-1079,2026-07-29,Laila  Mostafa,mouse,Cairo,3,639.19
+INV-1128,17 May 2026,AHMED HASSAN, Keyboard,GIZA,3,$15.43
+INV-1038,20/06/2026,KARIM FATHY,Keyboard,Alexandria,4,786.23
+INV-1082,28 Aug 2026,  Youssef Samir , Keyboard,ALEXANDRIA,4,81.59
+INV-1101,29/04/2026,laila mostafa,mouse,Alexandria,4,EGP 812.08
+INV-1188,26/01/2026,  Youssef Samir ,headset,Cairo,3,841.04 USD
+INV-1099,24/01/2026,Nour Ibrahim,keyboard,GIZA,2,227.34
+INV-1091,2026-05-05,Laila  Mostafa,monitor,Cairo,5,$674.2
+INV-1065,08-11-2026,Omar  Khaled,webcam,alex,4,EGP 423.74
+INV-1088,27/01/2026,,Headset,GIZA,4,EGP 118.07
+INV-1183,03-29-2026,Dina  Farouk, Keyboard,Cairo,1,EGP 50.46
+INV-1021,05 May 2026,  Laila Mostafa ,Monitor,Cairo,4,325.32
+INV-1040,23/05/2026,Nour  Ibrahim, Mouse,ALEXANDRIA,1,112.65 USD
+INV-1174,28 Feb 2026,AHMED HASSAN, Mouse,Giza,1,242.98 USD
+INV-1178,11 Oct 2026,dina farouk, Mouse,Cairo,1,68.52
+INV-1157,25 Apr 2026,ahmed hassan, Laptop,ALEXANDRIA,2,132.46 USD
+INV-1008,25/03/2026,  Laila Mostafa , Keyboard,alex,2,619.31
+INV-1143,25/08/2026,Dina  Farouk,Webcam,Giza,abc,296.16
+INV-1089,23 Mar 2026,Youssef  Samir, Laptop,Giza,2,893.11
+INV-1047,2026-02-17,mona adel,Monitor,Cairo,1,227.91
+INV-1133,04-23-2026,Karim  Fathy,Laptop,CAIRO,2,692.94 USD
+INV-1185,06 May 2026,karim fathy,Mouse,Alexandria,2,999999
+INV-1191,2026-10-02,Ahmed Hassan,Mouse,Giza,3,689.83 USD
+INV-1180,07/03/2026,Hany  Zaki,Monitor,Giza,1,EGP 749.94
+INV-1093,18/03/2026,Laila  Mostafa,mouse,Giza,5,345.72 USD
+INV-1032,28/09/2026,Ahmed  Hassan, Keyboard,Cairo,3,112.73
+INV-1039,2026-04-13,laila mostafa,Keyboard,Cairo,2,364.63 USD
+INV-1043,07-06-2026,Karim Fathy,webcam,ALEXANDRIA,1,650.58 USD
+INV-1198,27/01/2026,  Dina Farouk , Monitor,alex,-3,699.40
+INV-1097,2026-07-23,sara ali, Webcam,GIZA,,786.42
+INV-1147,06-20-2026,Sara  Ali,Webcam,GIZA,4,124.77
+INV-1031,09-17-2026,YOUSSEF SAMIR,Keyboard,CAIRO,3,EGP 150.39
+INV-1173,09/07/2026,  Nour Ibrahim , Laptop,Cairo,3,364.25 USD
+INV-1034,17 Feb 2026,karim fathy,Laptop,Giza,3,153.81
+INV-1001,2026-02-27,ahmed hassan,Monitor,Cairo,1,EGP 612.26
+INV-1032,28/09/2026,Ahmed  Hassan, Keyboard,Cairo,3,112.73
+INV-1149,10/01/2026,nour ibrahim,Monitor,GIZA,2,$211.62
+INV-1168,09-12-2026,NOUR  IBRAHIM,Keyboard,ALEXANDRIA,1,$393.24
+INV-1089,23 Mar 2026,Youssef  Samir, Laptop,Giza,2,893.11
+INV-1018,2026-06-09,karim fathy, Mouse,Giza,2,209.98 USD
+INV-1126,01/07/2026,Karim Fathy, Keyboard,GIZA,1,$524.35
+INV-1038,20/06/2026,KARIM FATHY,Keyboard,Alexandria,4,786.23
+INV-1025,26 Mar 2026,Karim Fathy,mouse,GIZA,4,EGP 629.97
+INV-1103,2026-07-16,Laila Mostafa,monitor,ALEXANDRIA,5,273.33 USD
+INV-1177,03-31-2026,Nour  Ibrahim,Monitor,Cairo,2,713.43
+INV-1084,23 Oct 2026,AHMED HASSAN, Mouse,ALEXANDRIA,,EGP 171.53
+INV-1132,2026-06-26,Karim Fathy, Keyboard,alex,4,478.97 USD
+INV-1110,2026-07-10,SARA ALI,Mouse,alex,3,$824.58
+INV-1104,22/07/2026,Youssef Samir, Headset,Alexandria,5,673.2 USD
+INV-1171,2026-07-27,Nour  Ibrahim, Webcam,Cairo,2,765.32
+INV-1193,10-09-2026,Youssef  Samir, Webcam,Cairo,1,360.57 USD
+INV-1076,18/03/2026,dina farouk,Laptop,Cairo,4,EGP 549.62
+INV-1087,21 Sep 2026,Ahmed  Hassan,mouse,Cairo,5,331.98
+INV-1004,22 Jun 2026,Sara Ali,Mouse,GIZA,5,245.42
+INV-1165,03-11-2026,  Sara Ali ,laptop,Cairo,2,798.35 USD
+INV-1066,06-15-2026,Mona Adel,keyboard,CAIRO,5,553.20
+INV-1118,09 Jan 2026,omar khaled,Laptop,,5,111.15
+INV-1042,17/07/2026,DINA FAROUK,Keyboard,ALEXANDRIA,1,EGP 472.73
+INV-1197,19/06/2026,  Sara Ali ,headset,alex,1,541.25 USD
+INV-1029,26/10/2026,Dina  Farouk,keyboard,Cairo,3,222.43
+INV-1050,10 Mar 2026,Laila  Mostafa, Headset,GIZA,5,EGP 735.36
+INV-1021,05 May 2026,  Laila Mostafa ,Monitor,Cairo,4,325.32
+INV-1120,2026-08-23,Ahmed Hassan,mouse,Giza,1,446.34
+INV-1130,2026-07-09,youssef samir, Headset,Cairo,2,EGP 150.09
+INV-1035,15/10/2026,Ahmed Hassan, Laptop,Cairo,1,EGP 752.79
+INV-1114,05 Jul 2026,sara ali, Headset,Giza,4,255.53
+INV-1135,06 Feb 2026,Karim Fathy,Mouse,Giza,,EGP 522.43
+INV-1140,10/09/2026,Laila  Mostafa,headset,,5,297.66 USD
+INV-1117,10-04-2026,YOUSSEF SAMIR, Laptop,Cairo,1,$328.84
+INV-1073,04-27-2026,NOUR IBRAHIM,Keyboard,alex,2,254.14
+INV-1086,11 Sep 2026,  Youssef Samir ,Headset,Giza,3,234.63
+INV-1123,09 Aug 2026,LAILA MOSTAFA,mouse,GIZA,,659.36 USD
+INV-1155,26 May 2026,SARA ALI,keyboard,Alexandria,4,$91.63
+INV-1146,21/06/2026,sara ali, Laptop,ALEXANDRIA,3,EGP 234.28
+INV-1077,2026-09-25,  Karim Fathy ,mouse,ALEXANDRIA,?,516.08
+INV-1003,23/04/2026,Laila  Mostafa,Keyboard,Cairo,4,$312.82
+INV-1187,2026-09-21,Hany Zaki,Keyboard,Giza,3,$410.14
+INV-1075,10/05/2026,Laila Mostafa,laptop,Giza,5,570.21
+INV-1048,2026-08-22,Karim  Fathy, Monitor,ALEXANDRIA,4,$365.69
+INV-1127,2026-09-04,Mona Adel, Keyboard,Giza,3,520.95
+INV-1102,07/02/2026,laila mostafa,headset,ALEXANDRIA,3,416.58 USD
+INV-1140,10/09/2026,Laila  Mostafa,headset,,5,297.66 USD
+INV-1046,08-27-2026,  Laila Mostafa ,Webcam,ALEXANDRIA,2,596.38 USD
+INV-1107,04-13-2026,Omar  Khaled, Keyboard,ALEXANDRIA,2,238.70
+INV-1045,10-19-2026,  Youssef Samir ,Headset,GIZA,,EGP 392.6
+INV-1010,23 Aug 2026,omar khaled,Monitor,alex,5,EGP 243.84
+INV-1137,08-12-2026,, Mouse,Giza,1,362.23 USD
+INV-1074,2026-03-06,Laila Mostafa, Laptop,GIZA,-3,$402.02
+INV-1147,06-20-2026,Sara  Ali,Webcam,GIZA,4,124.77
+INV-1196,06-22-2026,Hany  Zaki,headset,alex,3,432.65
+INV-1023,2026-03-13,KARIM FATHY,keyboard,Cairo,4,EGP 729.14
+INV-1016,03/05/2026,AHMED HASSAN,Headset,Cairo,4,EGP 736.26
+INV-1166,09-21-2026,Karim  Fathy,mouse,Cairo,2,264.64
+INV-1182,11/04/2026,hany zaki, Monitor,Giza,5,$93.15
+INV-1083,06-15-2026,dina farouk,Laptop,Cairo,5,532.54
+INV-1074,2026-03-06,Laila Mostafa, Laptop,GIZA,-3,$402.02
+INV-1055,02 Sep 2026,AHMED HASSAN,keyboard,Giza,5,$721.88
+INV-1167,20 May 2026,sara ali,mouse,ALEXANDRIA,4,$311.74
+INV-1123,09 Aug 2026,LAILA MOSTAFA,mouse,GIZA,,659.36 USD
+INV-1122,15/07/2026,Dina  Farouk,keyboard,alex,4,98.27
+INV-1168,09-12-2026,Nour  Ibrahim,Keyboard,ALEXANDRIA,1,$393.24
+INV-1105,06-30-2026,MONA ADEL,headset,alex,2,569.14
+INV-1041,2026-10-25,Youssef Samir, Laptop,GIZA,3,EGP 398.39
+INV-1141,2026-08-14,  Sara Ali , Mouse,GIZA,5,EGP 59.99
+INV-1002,05 Aug 2026,Ahmed Hassan,Laptop,Cairo,5,$33.62
+INV-1183,03-29-2026,Dina  Farouk, Keyboard,Cairo,1,EGP 50.46
+INV-1175,20/04/2026,dina farouk,webcam,Cairo,2,769.02
+INV-1199,05 May 2026,Ahmed  Hassan,Webcam,Cairo,4,$289.19
+INV-1121,02-11-2026,Nour  Ibrahim,Monitor,CAIRO,5,EGP 573.44
+INV-1184,18 Apr 2026,  Dina Farouk , Headset,CAIRO,5,267.81 USD
+INV-1085,09 Sep 2026,  Sara Ali ,keyboard,GIZA,1,773.38 USD
+INV-1106,14/08/2026,Ahmed  Hassan, Keyboard,Cairo,3,300.78
+INV-1026,2026-03-21,mona adel,Monitor,alex,5,64.25 USD
+INV-1014,09-14-2026,Omar  Khaled, Laptop,Giza,5,$551.98
+INV-1060,2026-02-05,Ahmed Hassan,Monitor,Cairo,2,222.30
+INV-1164,23/01/2026,Nour  Ibrahim, Keyboard,Cairo,4,882.93
+INV-1058,04-04-2026,ahmed hassan,mouse,CAIRO,?,310.38
+INV-1136,2026-08-02,Youssef Samir,Mouse,Giza,5,419.49 USD
+INV-1172,06 Mar 2026,SARA ALI,webcam,GIZA,5,$38.82
+INV-1013,02-28-2026,hany zaki,webcam,CAIRO,4,150.76
+INV-1063,05-05-2026,sara ali, Webcam,Cairo,1,319.01
+INV-1062,2026-06-09,Sara  Ali,laptop,alex,4,$363.02
+INV-1151,12/07/2026,OMAR KHALED, Monitor,Alexandria,4,48.89 USD
+INV-1190,05-04-2026,Mona  Adel,Keyboard,CAIRO,4,541.79
+INV-1158,13 Mar 2026,  Laila Mostafa ,Headset,Cairo,3,$201.93
+INV-1028,04 Feb 2026,  Mona Adel , Laptop,Cairo,5,45.37
+INV-1036,08-09-2026,Omar Khaled,keyboard,CAIRO,2,617.04
+INV-1066,06-15-2026,MONA ADEL,keyboard,CAIRO,5,553.20
+INV-1179,09-27-2026,  Karim Fathy ,Headset,CAIRO,1,EGP 410.48
+INV-1144,01 Feb 2026,Laila Mostafa, Keyboard,,2,999999
+INV-1070,08-31-2026,Hany  Zaki,keyboard,alex,3,323.11
+INV-1138,04-24-2026,NOUR IBRAHIM, Laptop,Alexandria,5,463.86 USD
+INV-1011,26/10/2026,karim fathy,Monitor,ALEXANDRIA,1,682.65
+INV-1052,2026-05-03,  Youssef Samir , Laptop,Giza,3,EGP 308.9
