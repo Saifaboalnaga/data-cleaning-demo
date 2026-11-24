@@ -1,0 +1,15 @@
+step,rows_affected,detail
+load,220,Loaded 220 rows from data/raw_sales.csv
+normalize_text,177,Trimmed/normalized case in 'customer_name'
+normalize_text,146,Trimmed/normalized case in 'product'
+normalize_text,97,Trimmed/normalized case in 'region'
+region_aliases,25,Mapped region aliases to canonical names
+dates,220,Converted mixed date formats to YYYY-MM-DD
+dates_unparseable,0,Dates that could not be parsed (flagged)
+prices,220,Removed currency symbols/codes and separators
+currency_egp,41,Prices in EGP kept in a separate currency column (no conversion applied)
+quantity_invalid,8,Non-numeric or non-positive quantities set empty and flagged
+exact_duplicates,20,Removed exact duplicate rows
+duplicate_invoice_id,0,Removed repeated invoice_id (kept first occurrence)
+flags,56,Rows flagged for review (missing values or outliers)
+integrity,200,Final rows: 200 (from 220); invoice_id unique; dates ISO
