@@ -1,4 +1,4 @@
-# Data Cleaning Demo: Messy Sales Records → Report-Ready File
+# Data Cleaning & Dashboard Demo: Messy Sales Records → Report-Ready Insights
 
 A Python (pandas) pipeline that turns an inconsistent sales export into a clean, validated dataset with a full changelog. Every change is logged, and nothing valid is silently overwritten: questionable values are **flagged for review**, not deleted.
 
@@ -39,11 +39,20 @@ A Python (pandas) pipeline that turns an inconsistent sales export into a clean,
 | Duplicate invoices | 20 | 0 |
 | Rows needing human review | hidden | 56, clearly flagged in `review_flag` |
 
+## Dashboard (`dashboard.py`)
+
+An interactive dashboard (Python + Plotly) built on the cleaned data: KPI row, monthly revenue by region, revenue by product, regional share, top customers, and a data-quality panel showing what was flagged. Open `output/dashboard.html` in a browser for hover details and legend filtering.
+
+![Dashboard](dashboard.png)
+
+Revenue figures exclude price outliers and EGP rows (no exchange rate is assumed), and the dashboard shows how many rows were excluded, so nothing is hidden.
+
 ## Output (`output/`)
 
 - `clean_sales.csv`: cleaned data with `currency`, `review_flag` and `line_total` columns
 - `clean_sales.xlsx`: same data, plus a `changelog` sheet
 - `changelog.csv`: every step with the number of rows affected
+- `dashboard.html`: the interactive dashboard
 
 ## Run it
 
@@ -51,6 +60,8 @@ A Python (pandas) pipeline that turns an inconsistent sales export into a clean,
 pip install pandas openpyxl
 python make_messy_data.py          # creates data/raw_sales.csv
 python clean_data.py data/raw_sales.csv output/
+pip install plotly
+python dashboard.py output/clean_sales.csv output/dashboard.html
 ```
 
 ## Author
